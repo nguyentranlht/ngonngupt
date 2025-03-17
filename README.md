@@ -1,2 +1,2 @@
-# NNPTUD_S2
-# Vào nhánh mỗi ngày để lấy code
+# Trần Thanh Nguyên
+# 2180607813
